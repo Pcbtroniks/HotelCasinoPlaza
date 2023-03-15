@@ -9,6 +9,8 @@ Route::get('installations', [FrontController::class, 'installations'])->name('in
 
 Route::get('rooms', [FrontController::class, 'rooms'])->name('rooms');
 
+Route::get('visit', [FrontController::class, 'visit'])->name('visit');
+
 Route::get('services', [FrontController::class, 'services'])->name('services');
 
 Route::get('contact', [FrontController::class, 'contact'])->name('contact');
