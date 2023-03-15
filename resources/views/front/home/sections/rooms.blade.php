@@ -13,7 +13,7 @@
             
             <div class="columns-2">
                 <!--Room Card-->
-                <div class="shadow-card card-shadow w-full">
+                <div class="shadow-card card-shadow max-w-[38rem] mx-auto w-full">
                     
                     <div class="w-full h-[230px] overflow-hidden">
                         <img class="w-full h-full object-cover hover:scale-110 transition-transform duration-300" src="{{asset('assets/img/rooms/ejecutiva.jpg')}}" alt="Habitación ejecutiva">
@@ -50,7 +50,7 @@
                     
                 </div>
                 <!--Room Card-->
-                <div class="shadow-card card-shadow w-full">
+                <div class="shadow-card card-shadow max-w-[38rem] mx-auto w-full">
                     
                     <div class="w-full h-[230px] overflow-hidden">
                         <img class="w-full h-full object-cover hover:scale-110 transition-transform duration-300" src="{{asset('assets/img/rooms/ejecutiva.jpg')}}" alt="Habitación ejecutiva">
