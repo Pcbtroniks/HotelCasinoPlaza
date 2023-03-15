@@ -15,6 +15,8 @@
 
         @yield('content')
 
+        @include('front.shared.footer')
+
         @yield('js')
     </body>
 </html>
