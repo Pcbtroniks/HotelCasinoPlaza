@@ -11,4 +11,14 @@ class FrontController extends Controller
     {
         return view('front.home.home');
     }
+
+    public function installations()
+    {
+        return view('front.installations.installations');
+    }
+
+    public function rooms()
+    {
+        return view('front.rooms.rooms');
+    }
 }
