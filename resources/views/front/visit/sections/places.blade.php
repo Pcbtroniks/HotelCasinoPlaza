@@ -14,8 +14,8 @@
 
                 <p class="text-sm leading-6">
                     Ronda Minerva Hotel es una joya de la cultura de Jalisco, ubicado en el corazón
-    de la capital tapatía, es un referente de la historia de la ciudad. A menos de 3
-    cuadras de La Minerva, uno de los sitios más representativos del país. Bajando al centro, a menos de 800 metros se encuentra Av. Chapultepec, el lugar en donde estar si se trata de la vida nocturna.
+                    de la capital tapatía, es un referente de la historia de la ciudad. A menos de 3
+                    cuadras de La Minerva, uno de los sitios más representativos del país. Bajando al centro, a menos de 800 metros se encuentra Av. Chapultepec, el lugar en donde estar si se trata de la vida nocturna.
                 </p>
 
                 <div class="space-y"></div>

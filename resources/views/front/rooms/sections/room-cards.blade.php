@@ -19,12 +19,12 @@
 
                     <div class="p-4 sm:p-6 flex flex-col basis-2/3 xl:h-80">
 
-                        <h2 class="text-2xl font-bold my-4 sm:my-2 text-dark-medium capitalize">Habitación Ejecutiva</h2>
+                        <h2 class="text-2xl font-bold my-4 sm:my-2 text-dark-medium capitalize">Ejecutiva Sencilla</h2>
 
                         <div>
 
                             <p class="text-sm">
-                                Habitación tipo Ejecutiva con cama queen size para 1 o 2 personas, TV por cable, aire acondicionado, calefacción, cerradura e iluminación electrónia, caja de seguridad, secadora de cabello, teléfono, mesa de trabajo individual, internet inalámbrico.
+                                Habitación tranquila con una cama queen size, cuenta con la tranquilidad y comodidad que ofrece Casino Plaza a todos los huéspedes, pueden hospedarse hasta 2 personas en esta habitación.
                             </p>
 
                             <ul class="grid grid-cols-3 py-4 text-xs">

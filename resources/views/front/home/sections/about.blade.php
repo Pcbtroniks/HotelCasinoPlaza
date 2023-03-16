@@ -11,7 +11,8 @@
             </p>
             <br>
             <p class="pr-8 text-justify text-dark-text mb-8 lg:mb-0">
-                El Hotel Casino Plaza en Guadalajara es un hotel 4 estrellas con una ubicación céntrica. Con 65 habitaciones, el hotel ofrece servicios de alta calidad, incluyendo TV por cable, internet, aire acondicionado, caja de seguridad, estacionamiento gratuito y servicio a cuarto. Además, el hotel tiene suites con jacuzzi, columna de hidromasaje, frigo bar y DVD. Los huéspedes pueden reservar directamente en línea para obtener la mejor tarifa disponible.
+                En el corazón de la perla tapatía, Hotel Casino Plaza inaugurado en noviembre de 2005 cuenta con una amplia tradición en calidad de servicio e instalaciones. Nos distinguimos por el excelente trato al huésped y la ubicación que le permitirá desplazarse a cualquier lugar del área metropolitana de Guadalajara sin mayor complicación por la gama de opciones en transporte que se ofrecen. 
+                Somos su hotel de cuatro estrellas en el corazón de Guadalajara, constantemente en busca de mejoras para que tenga una estancia cálida, contamos con las amenidades necesarias para que tenga una casa fuera de casa. 
             </p>
         </div>
         <!-- -->

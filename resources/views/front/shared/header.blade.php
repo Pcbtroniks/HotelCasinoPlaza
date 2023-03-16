@@ -1,5 +1,5 @@
 <nav>
-    <div class="flex justify-between items-center px-8 py-2 md:py-1 bg-white h-[60px] border-b-2 border-b-main">
+    <div class="flex justify-between items-center px-8 py-2 md:py-1 bg-white h-[60px] border-b-2 border-b-main max-w-screen-2xl mx-auto">
         <div class="flex items-center gap-4">
             <div class="hidden md:inline cursor-pointer" data-open-nav onclick="openNav()">
                 <img class="w-10" src="{{ asset('assets/icons/menu.svg') }}" alt="menu">

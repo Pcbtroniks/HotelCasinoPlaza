@@ -22,13 +22,11 @@
                     <div class="p-6 pb-4 ">
                         
                         <h3 class="font-bold mb-3 text-xl">
-                            Habitación Sencilla
+                            Ejecutiva Sencilla
                         </h3>
                         
                         <p class="text-sm leading-6">
-                            Habitación Sencilla, especialmente diseñada para tu comodidad y conveniencia, recomendada para 2 personas.
-                            <br>
-                            Esta habitación cuenta con una mesa de trabajo, equipada con una cama King Size perfecta para una buena noche de sueño.
+                            Habitación tranquila con una cama queen size, cuenta con la tranquilidad y comodidad que ofrece Casino Plaza a todos los huéspedes, pueden hospedarse hasta 2 personas en esta habitación.
                         </p>
                         
                         <ul class="flex my-3 gap-4">
@@ -59,13 +57,11 @@
                     <div class="p-6 pb-4 ">
                         
                         <h3 class="font-bold mb-3 text-xl">
-                            Habitación Sencilla
+                            Ejecutiva Doble
                         </h3>
                         
                         <p class="text-sm leading-6">
-                            Habitación Sencilla, especialmente diseñada para tu comodidad y conveniencia, recomendada para 2 personas.
-                            <br>
-                            Esta habitación cuenta con una mesa de trabajo, equipada con una cama King Size perfecta para una buena noche de sueño.
+                            Con la comodidad de una amplia habitación con dos camas matrimoniales, cuenta con las amenidades necesarias para tener una estancia tranquila y el descanso necesario en tu viaje. Pueden hospedarse hasta 4 personas en esta habitación.
                         </p>
                         
                         <ul class="flex my-3 gap-4">
@@ -96,13 +92,11 @@
                     <div class="p-6 pb-4 ">
                         
                         <h3 class="font-bold mb-3 text-xl">
-                            Habitación Sencilla
+                            Suite Ejecutiva
                         </h3>
                         
                         <p class="text-sm leading-6">
-                            Habitación Sencilla, especialmente diseñada para tu comodidad y conveniencia, recomendada para 2 personas.
-                            <br>
-                            Esta habitación cuenta con una mesa de trabajo, equipada con una cama King Size perfecta para una buena noche de sueño.
+                            Para estadías largas o incrementar la comodidad en la perla tapatía, ponemos a su disposición esta habitación que cuenta con un amplio espacio, dos camas matrimoniales y un sofá cama, se recomienda para 3 personas o hasta 5 de ser el caso. 
                         </p>
                         
                         <ul class="flex my-3 gap-4">
