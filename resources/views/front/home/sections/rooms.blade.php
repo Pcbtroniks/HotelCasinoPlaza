@@ -26,7 +26,7 @@
                         </h3>
                         
                         <p class="text-sm leading-6">
-                            Habitación tranquila con una cama queen size, cuenta con la tranquilidad y comodidad que ofrece Casino Plaza a todos los huéspedes, pueden hospedarse hasta 2 personas en esta habitación.
+                            Habitación Ejecutiva Sencilla: Habitación tranquila con una cama queen size, cuenta con la tranquilidad y comodidad que ofrece Casino Plaza a todos los huéspedes, pueden hospedarse hasta 2 personas en esta habitación.
                         </p>
                         
                         <ul class="flex my-3 gap-4">
@@ -57,7 +57,7 @@
                     <div class="p-6 pb-4 ">
                         
                         <h3 class="font-bold mb-3 text-xl">
-                            Ejecutiva Doble
+                            Habitación Ejecutiva Doble
                         </h3>
                         
                         <p class="text-sm leading-6">
@@ -86,7 +86,7 @@
                 <div class="shadow-card card-shadow max-w-[38rem] mx-auto w-full mb-8 break-before-column">
                     
                     <div class="w-full h-[230px] overflow-hidden">
-                        <img class="w-full h-full object-cover hover:scale-110 transition-transform duration-300" src="{{asset('assets/img/rooms/ejecutiva.jpg')}}" alt="Habitación ejecutiva">
+                        <img class="w-full h-full object-cover hover:scale-110 transition-transform duration-300" src="{{asset('assets/img/rooms/sencilla-plus.jpg')}}" alt="Habitación ejecutiva">
                     </div>
                     
                     <div class="p-6 pb-4 ">

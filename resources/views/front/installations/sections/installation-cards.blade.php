@@ -9,11 +9,11 @@
 
                 {{-- card --}}
 
-                <div class="shadow-card flex flex-col lg:flex-row lg:max-h-80 xl:h-80 max-w-[1253px] lg:mx-auto my-8">
+                <div class="card-shadow flex flex-col lg:flex-row lg:max-h-80 xl:h-80 max-w-[1253px] lg:mx-auto my-8">
 
                     <div class="h-52 lg:h-full min-h-5 basis-1/3 lg:overflow-hidden">
                         <picture>
-                            <img class="w-full object-cover md:h-72 h-60 lg:h-80" src="{{ asset('assets/img/rooms/main-room.jpg') }}" alt="Habitaciones Hotel Isabel">
+                            <img class="w-full object-cover md:h-72 h-60 lg:h-80" src="{{ asset('assets/img/rooms/ejecutiva.jpg') }}" alt="Habitaciones Hotel Casino Plaza">
                         </picture>
                     </div>
 
@@ -28,7 +28,7 @@
                         <div>
 
                             <p class="text-sm">
-                                Te sentirás como en tu propia casa en cualquiera de nuestras 54 habitaciones, diferentes entre sí adaptadas a tus necesidades.
+                                Te sentirás como en tu propia casa en cualquiera de nuestras habitaciones, diferentes entre sí adaptadas a tus necesidades.
                             </p>
 
 
@@ -53,11 +53,11 @@
 
                 {{-- card --}}
 
-                <div class="shadow-card flex flex-col lg:flex-row-reverse xl:max-h-80 xl:h-80 max-w-[1253px] lg:mx-auto my-8">
+                <div class="card-shadow flex flex-col lg:flex-row-reverse xl:max-h-80 xl:h-80 max-w-[1253px] lg:mx-auto my-8">
 
                     <div class="h-52 lg:h-full min-h-5 basis-1/3 lg:overflow-hidden">
                         <picture>
-                            <img class="w-full object-cover md:h-72 h-60 lg:h-80" src="{{ asset('assets/img/installations/el-comedor.png') }}" alt="Restaurant Photography">
+                            <img class="w-full object-cover md:h-72 h-60 lg:h-80" src="{{ asset('assets/img/installations/restarant.jpg') }}" alt="Restaurant Photography">
                         </picture>
                     </div>
 
@@ -67,7 +67,7 @@
                             <span class="text-ronda-dark-medium font-bold text-sm uppercase">RESTAURANTE</span>
                         </div>
 
-                        <h2 class="text-2xl font-bold my-4 sm:my-2 text-dark-medium capitalize">El Comedor</h2>
+                        <h2 class="text-2xl font-bold my-4 sm:my-2 text-dark-medium capitalize">Los Alcatraces</h2>
 
                         <div>
 
@@ -97,26 +97,68 @@
                 
                 {{-- card --}}
 
-                <div class="shadow-card flex flex-col lg:flex-row lg:max-h-80 xl:h-80 max-w-[1253px] lg:mx-auto my-8">
+                <div class="card-shadow flex flex-col lg:flex-row lg:max-h-80 xl:h-80 max-w-[1253px] lg:mx-auto my-8">
 
                     <div class="h-52 lg:h-full min-h-5 basis-1/3 overflow-hidden">
                         <picture>
-                            <img class="w-full object-cover md:h-72 h-60 lg:h-80 object-bottom" src="{{ asset('assets/img/hero/Principal-3.jpg') }}" alt="Pool Photography">
+                            <img class="w-full object-cover md:h-72 h-60 lg:h-80 object-bottom" src="{{ asset('assets/img/installations/salones.jpg') }}" alt="Salon Photography">
                         </picture>
                     </div>
 
                     <div class="p-4 sm:p-6 flex flex-col basis-2/3 xl:h-80">
 
                         <div>
-                            <span class="text-ronda-dark-medium font-bold text-sm uppercase">Confortable</span>
+                            <span class="text-ronda-dark-medium font-bold text-sm uppercase">Amplios</span>
                         </div>
 
-                        <h2 class="text-2xl font-bold my-4 sm:my-2 text-dark-medium capitalize">Alberca</h2>
+                        <h2 class="text-2xl font-bold my-4 sm:my-2 text-dark-medium capitalize">Salones para eventos</h2>
 
                         <div>
 
                             <p class="text-sm">
-                                Alberca al aire libre podrás disfrutar de un merecido descanso o de un momento de relajación. No te quedará ni un minuto libre. No climatizada.
+                                Estamos seguros de poder alcanzar sus más altas expectativas, considerando que día a día mejoramos la calidad de nuestros servicios e instalaciones.
+                            </p>
+
+
+                            <div class="mt-8">
+                                <ul class="flex gap-4 md:justify-start justify-around px-2 nth-rm">
+                                    <li><img src="{{ asset('assets/icons/wifi.png') }}" alt="Wify Logo"></li>
+                                </ul>
+                            </div>
+
+                        </div>
+                        
+                        <a class="hidden" target="_blank" href="https://direct-book.com/properties/HotelarboreaDirect">
+                            <button class="w-36 h-12 font-bold bg-ronda-orange text-white text-sm">Reservar Ahora</button>
+                        </a>
+
+                    </div>
+
+                </div>
+
+
+                {{-- card --}}
+
+                <div class="card-shadow flex flex-col lg:flex-row-reverse lg:max-h-80 xl:h-80 max-w-[1253px] lg:mx-auto my-8">
+
+                    <div class="h-52 lg:h-full min-h-5 basis-1/3 overflow-hidden">
+                        <picture>
+                            <img class="w-full object-cover md:h-72 h-60 lg:h-80 object-bottom" src="{{ asset('assets/img/installations/gym.jpg') }}" alt="Gym Photography">
+                        </picture>
+                    </div>
+
+                    <div class="p-4 sm:p-6 flex flex-col basis-2/3 xl:h-80">
+
+                        <div>
+                            <span class="text-ronda-dark-medium font-bold text-sm uppercase">Comodo</span>
+                        </div>
+
+                        <h2 class="text-2xl font-bold my-4 sm:my-2 text-dark-medium capitalize">Gimnasio</h2>
+
+                        <div>
+
+                            <p class="text-sm">
+                                Estamos seguros de poder alcanzar sus más altas expectativas, considerando que día a día mejoramos la calidad de nuestros servicios e instalaciones.
                             </p>
 
 
