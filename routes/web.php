@@ -14,3 +14,5 @@ Route::get('visit', [FrontController::class, 'visit'])->name('visit');
 Route::get('services', [FrontController::class, 'services'])->name('services');
 
 Route::get('contact', [FrontController::class, 'contact'])->name('contact');
+
+Route::post('contact', [FrontController::class, 'contact'])->name('contact.send');

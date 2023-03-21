@@ -13,9 +13,8 @@
                 <h3 class="font-bold text-3xl mb-10">EN GUADALAJARA</h3>
 
                 <p class="text-sm leading-6">
-                    Ronda Minerva Hotel es una joya de la cultura de Jalisco, ubicado en el corazón
-                    de la capital tapatía, es un referente de la historia de la ciudad. A menos de 3
-                    cuadras de La Minerva, uno de los sitios más representativos del país. Bajando al centro, a menos de 800 metros se encuentra Av. Chapultepec, el lugar en donde estar si se trata de la vida nocturna.
+                    En el corazón de la perla tapatía, Hotel Casino Plaza inaugurado en noviembre de 2005 cuenta con una amplia tradición en calidad de servicio e instalaciones. Nos distinguimos por el excelente trato al huésped y la ubicación que le permitirá desplazarse a cualquier lugar del área metropolitana de Guadalajara sin mayor complicación por la gama de opciones en transporte que se ofrecen. 
+                    Somos su hotel de cuatro estrellas en el corazón de Guadalajara, constantemente en busca de mejoras para que tenga una estancia cálida, contamos con las amenidades necesarias para que tenga una casa fuera de casa. 
                 </p>
 
                 <div class="space-y"></div>
@@ -38,7 +37,48 @@
             </div>
 
             <div>
-                <iframe class="w-full max-h-96 h-96 object-cover" src="https://www.google.com/maps/d/embed?mid=1tbA2--WSPlThEvsIYTyEp5hQcH17NnQ&ehbc=2E312F" width="640" height="480"></iframe>
+                <iframe class="w-full max-h-96 h-96 object-cover" src="https://www.google.com/maps/d/embed?mid=17WUmkdDca4L-a7axvign92RhzyK3ljw&ehbc=2E312F" width="640" height="480"></iframe>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="space-y"></div>
+    <div class="lg:p-20 p-0 bg-main-light">
+
+        <div class="card-shadow flex md:grid md:grid-cols-2 flex-col-reverse">
+
+            <div class="px-10 md:mx-auto my-6">
+                
+                <h3 class="font-bold text-3xl mb-10">Puntos de Interes cercanos</h3>
+                <div class="space-y"></div>
+                <ul class="">
+                    <li class="text-xl mb-2"> <span class="font-bold text-3xl text-main">•</span> Aeropuerto internacional de Guadalajara Miguel Hidalgo y Costilla a 35min.</li>
+                    <li class="text-xl mb-2"> <span class="font-bold text-3xl text-main">•</span> Central de autobuses de Guadalajara a 25min.</li>
+                    <li class="text-xl mb-2"> <span class="font-bold text-3xl text-main">•</span> Tequila a 1hr.</li>
+                    <li class="text-xl mb-2"> <span class="font-bold text-3xl text-main">•</span> Guachimontones a 1hr 9min</li>
+                    <li class="text-xl mb-2"> <span class="font-bold text-3xl text-main">•</span> Tonalá a 38min</li>
+                </ul>
+
+                <div class="my-12 hidden">
+                    <button class="w-36 h-12 font-bold bg-main text-white text-sm">ver todos</button>
+                </div>
+            </div>
+
+            <div>
+                <div class="w-full">
+                    <div class="w-full max-h-96 h-96 slider relative overflow-hidden">
+                        <div class="w-full h-full slide absolute opacity-0 transition-opacity duration-1000 active">
+                            <img class="w-full block max-h-96 h-96 object-cover active" src="{{ asset('assets/img/places/gdl.jpg') }}" alt="Slider Image">
+                        </div>
+                        <div class="w-full h-full slide absolute opacity-0 transition-opacity duration-1000 active">
+                            <img class="w-full block max-h-96 h-96 object-cover active" src="{{ asset('assets/img/places/guachimontones.jpg') }}" alt="Slider Image">
+                        </div>
+                        <div class="w-full h-full slide absolute opacity-0 transition-opacity duration-1000 active">
+                            <img class="w-full block max-h-96 h-96 object-cover active" src="{{ asset('assets/img/places/tequila.jpg') }}" alt="Slider Image">
+                        </div>
+                    </div>
+                </div>
             </div>
 
         </div>
