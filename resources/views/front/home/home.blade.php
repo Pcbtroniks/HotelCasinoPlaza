@@ -26,6 +26,27 @@
             clickable: true,
         },
     });
+
+    const swiper1 = new Swiper("#coments-carousel", {
+        // autoplay: {
+        //     delay: 5000,
+        //     disableOnInteraction: false,
+        // },
+        loop: true,
+        slidesPerView: 1,
+        breakpoints: {
+            640: {
+                slidesPerView: 1,
+            },
+            768: {
+                slidesPerView: 2,
+            },
+            1024: {
+                slidesPerView: 2,
+            },
+        },
+        spaceBetween: 30,
+    });
     </script>
 @endsection
 
