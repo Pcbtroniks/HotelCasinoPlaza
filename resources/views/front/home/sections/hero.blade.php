@@ -8,9 +8,9 @@
             </div>
 
             <div class="text-white text-center flex flex-col justify-center gap-3 h-full z-10 absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2">
-                <h1 class="text-5xl font-bold px-12">
-                    Hotel Casino Plaza
-                </h1>
+                <div class="mx-auto">
+                    <img src="{{ asset('assets/logo.png') }}" alt="Logo Hotel Casino Plaza">
+                </div>
                 <h2 class="text-5xl font-light" data-swiper-parallax-duration="400" data-swiper-parallax="-300">
                     Confort y Descanso a tu alcance
                 </h2>
@@ -28,9 +28,9 @@
             </div>
 
             <div class="text-white text-center flex flex-col justify-center gap-3 h-full z-10 absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2">
-                <h1 class="text-5xl font-bold px-12" >
-                    Hotel Casino Plaza
-                </h1>
+                <div class="mx-auto">
+                    <img src="{{ asset('assets/logo.png') }}" alt="Logo Hotel Casino Plaza">
+                </div>
                 <h2 class="text-5xl font-light" data-swiper-parallax-duration="400" data-swiper-parallax="-300">
                     Perfecto para estancias largas
                 </h2>
@@ -48,9 +48,9 @@
             </div>
 
             <div class="text-white text-center flex flex-col justify-center gap-3 h-full z-10 absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2">
-                <h1 class="text-5xl font-bold px-12" >
-                    Hotel Casino Plaza
-                </h1>
+                <div class="mx-auto">
+                    <img src="{{ asset('assets/logo.png') }}" alt="Logo Hotel Casino Plaza">
+                </div>
                 <h2 class="text-5xl font-light" data-swiper-parallax-duration="400" data-swiper-parallax="-300">
                     En el corazón de la perla tapatía
                 </h2>
@@ -68,9 +68,9 @@
             </div>
 
             <div class="text-white text-center flex flex-col justify-center gap-3 h-full z-10 absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2">
-                <h1 class="text-5xl font-bold px-12" >
-                    Hotel Casino Plaza
-                </h1>
+                <div class="mx-auto">
+                    <img src="{{ asset('assets/logo.png') }}" alt="Logo Hotel Casino Plaza">
+                </div>
                 <h2 class="text-5xl font-light" data-swiper-parallax-duration="400" data-swiper-parallax="-300">
                     La comodidad al alcance de una reserva.
                 </h2>
