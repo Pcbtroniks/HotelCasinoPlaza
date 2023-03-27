@@ -109,7 +109,7 @@
 
                     <div class="h-52 lg:h-full min-h-5 basis-1/3 lg:overflow-hidden">
                         <picture>
-                            <img class="h-full w-full object-cover lg:h-96 xl:h-80" src="{{ asset('assets/img/rooms/sencilla-plus.jpg') }}" alt="Habitación Suite">
+                            <img class="h-full w-full object-cover lg:h-96 xl:h-80" src="{{ asset('assets/img/rooms/suite.jpeg') }}" alt="Habitación Suite">
                         </picture>
                     </div>
 
