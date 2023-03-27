@@ -48,6 +48,15 @@
                 </div>
             </div>
         
+            <div class="flex items-center">
+                <div class="w-[90px] pr-4">
+                    <img class="w-full" src="{{asset('assets/img/services/negocios.png')}}" alt="Icono Gimnasio">
+                </div>
+                <div>
+                    <p class="text-dark-text">Centro de negocios</p>
+                </div>
+            </div>
+        
         </div>
 
     </div>   
