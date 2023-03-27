@@ -4,6 +4,8 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
+        @include('front.shared.meta')
+
         <title>{{ config('app.name', 'Hotel Casino Plaza') }}</title>
 
         @vite('resources/css/app.css')
