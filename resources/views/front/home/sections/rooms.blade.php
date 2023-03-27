@@ -34,7 +34,6 @@
                             <li><img src="{{ asset('assets/icons/wifi.png') }}" alt="service"></li>
                             <li><img src="{{ asset('assets/icons/air.png') }}" alt="service"></li>
                             <li><img src="{{ asset('assets/icons/park.png') }}" alt="service"></li>
-                            <li><img src="{{ asset('assets/icons/pool.png') }}" alt="service"></li>
                         </ul>
                         
                         <div>
@@ -51,7 +50,7 @@
                 <div class="shadow-card card-shadow max-w-[38rem] mx-auto w-full mb-8">
                     
                     <div class="w-full h-[230px] overflow-hidden">
-                        <img class="w-full h-full object-cover hover:scale-110 transition-transform duration-300" src="{{asset('assets/img/rooms/ejecutiva.jpg')}}" alt="Habitación ejecutiva">
+                        <img class="w-full h-full object-cover hover:scale-110 transition-transform duration-300" src="{{asset('assets/img/rooms/doble.jpg')}}" alt="Habitación ejecutiva">
                     </div>
                     
                     <div class="p-6 pb-4 ">
@@ -69,7 +68,6 @@
                             <li><img src="{{ asset('assets/icons/wifi.png') }}" alt="service"></li>
                             <li><img src="{{ asset('assets/icons/air.png') }}" alt="service"></li>
                             <li><img src="{{ asset('assets/icons/park.png') }}" alt="service"></li>
-                            <li><img src="{{ asset('assets/icons/pool.png') }}" alt="service"></li>
                         </ul>
                         
                         <div>
@@ -86,7 +84,7 @@
                 <div class="shadow-card card-shadow max-w-[38rem] mx-auto w-full mb-8 break-before-column">
                     
                     <div class="w-full h-[230px] overflow-hidden">
-                        <img class="w-full h-full object-cover hover:scale-110 transition-transform duration-300" src="{{asset('assets/img/rooms/sencilla-plus.jpg')}}" alt="Habitación ejecutiva">
+                        <img class="w-full h-full object-cover hover:scale-110 transition-transform duration-300" src="{{asset('assets/img/rooms/suite.jpeg')}}" alt="Habitación ejecutiva">
                     </div>
                     
                     <div class="p-6 pb-4 ">
@@ -104,7 +102,6 @@
                             <li><img src="{{ asset('assets/icons/wifi.png') }}" alt="service"></li>
                             <li><img src="{{ asset('assets/icons/air.png') }}" alt="service"></li>
                             <li><img src="{{ asset('assets/icons/park.png') }}" alt="service"></li>
-                            <li><img src="{{ asset('assets/icons/pool.png') }}" alt="service"></li>
                         </ul>
                         
                         <div>
