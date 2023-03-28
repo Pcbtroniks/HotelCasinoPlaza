@@ -17,3 +17,7 @@ Route::get('services', [FrontController::class, 'services'])->name('services');
 Route::get('contact', [FrontController::class, 'contact'])->name('contact');
 
 Route::post('contact', [ContactController::class, 'sendContactEmail'])->name('contact.send');
+
+Route::get('event-contact', [FrontController::class, 'eventContact'])->name('event.contact');
+
+Route::post('event-contact', [ContactController::class, 'sendEventContactEmail'])->name('event.contact.send');

@@ -4,6 +4,21 @@
 
 @layer utilities {
 
+    .spacing-1 {
+        @apply h-4;
+    }
+
+    .without-ring {
+        @apply focus:ring-0 focus:ring-offset-0;
+    }
+    .without-ring:focus:not(:focus-visible) {
+        @apply focus:ring-0 focus:ring-offset-0;
+    }
+    
+    .without-ring:focus-visible {
+        @apply ring-2 ring-offset-2;
+    }
+
     .slide img {
         
         transition: opacity 1s ease-in-out;
