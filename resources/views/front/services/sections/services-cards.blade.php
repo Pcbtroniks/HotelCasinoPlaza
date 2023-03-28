@@ -281,7 +281,7 @@
                         <div>
 
                             <p class="text-sm font-bold text-dark-medium leading-6">
-                                (Capacidad de hasta 180 personas, con costo extra, Cotiza tu evento)
+                                Capacidad de hasta 180 personas, con costo extra,  <a href="{{ route('event.contact') }}" class="text-base text-main underline">Cotiza tu evento</a> 
                             </p>
 
                         </div>
