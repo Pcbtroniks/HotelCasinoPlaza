@@ -37,7 +37,6 @@
                                     <li><img src="{{ asset('assets/icons/tv.png') }}" alt="TV Logo"></li>
                                     <li><img src="{{ asset('assets/icons/wifi.png') }}" alt="Wify Logo"></li>
                                     <li><img src="{{ asset('assets/icons/park.png') }}" alt="Park Logo"></li>
-                                    <li><img src="{{ asset('assets/icons/pool.png') }}" alt="Pool Logo"></li>
                                 </ul>
                             </div>
 
@@ -154,6 +153,48 @@
                         </div>
 
                         <h2 class="text-2xl font-bold my-4 sm:my-2 text-dark-medium capitalize">Gimnasio</h2>
+
+                        <div>
+
+                            <p class="text-sm">
+                                Estamos seguros de poder alcanzar sus más altas expectativas, considerando que día a día mejoramos la calidad de nuestros servicios e instalaciones.
+                            </p>
+
+
+                            <div class="mt-8">
+                                <ul class="flex gap-4 md:justify-start justify-around px-2 nth-rm">
+                                    <li><img src="{{ asset('assets/icons/wifi.png') }}" alt="Wify Logo"></li>
+                                </ul>
+                            </div>
+
+                        </div>
+                        
+                        <a class="hidden" target="_blank" href="https://direct-book.com/properties/HotelarboreaDirect">
+                            <button class="w-36 h-12 font-bold bg-ronda-orange text-white text-sm">Reservar Ahora</button>
+                        </a>
+
+                    </div>
+
+                </div>
+
+
+                {{-- card --}}
+
+                <div class="card-shadow flex flex-col lg:flex-row lg:max-h-80 xl:h-80 max-w-[1253px] lg:mx-auto my-8">
+
+                    <div class="h-52 lg:h-full min-h-5 basis-1/3 overflow-hidden">
+                        <picture>
+                            <img class="w-full object-cover md:h-72 h-60 lg:h-80 object-bottom" src="{{ asset('assets/img/installations/centro-negocios.jpg') }}" alt="Business center Photography">
+                        </picture>
+                    </div>
+
+                    <div class="p-4 sm:p-6 flex flex-col basis-2/3 xl:h-80">
+
+                        <div>
+                            <span class="text-ronda-dark-medium font-bold text-sm uppercase">Radiante</span>
+                        </div>
+
+                        <h2 class="text-2xl font-bold my-4 sm:my-2 text-dark-medium capitalize">Centro de negocios</h2>
 
                         <div>
 
