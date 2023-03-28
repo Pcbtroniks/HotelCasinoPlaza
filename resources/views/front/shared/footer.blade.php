@@ -26,9 +26,9 @@
                     <br>
                     <span>3614 0224</span>
                 </a>
-                <a class="flex gap-2" href="mailto:reservaciones@hotelisabel.com">
+                <a class="flex gap-2" href="mailto:reservaciones@hotelcasinoplaza.mx">
                     <img src="{{ asset('assets/icons/services/mail-outline.svg') }}" alt="Location Icon">
-                    <span>reservaciones@hotelisabel.com</span>
+                    <span>reservaciones@hotelcasinoplaza.mx</span>
                 </a>
                 <a class="flex gap-2" href="#">
                     <img src="{{ asset('assets/icons/location-outline.svg') }}" alt="Location Icon">

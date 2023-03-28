@@ -28,7 +28,7 @@
                         <div>
 
                             <p class="text-sm font-bold text-dark-medium leading-6">
-                                Contamos con 65 amplias habitaciones y comodas habitaciones, ya sea para negocios o placer.
+                                Contamos con 65 amplias y comodas habitaciones, para que tenga una casa fuera de casa.
                             </p>
 
                         </div>
@@ -172,7 +172,7 @@
                         <div>
 
                             <p class="text-sm font-bold text-dark-medium leading-6">
-                                (Estacionamiento techado y cerrado para huéspedes y servicio de taxi con costo extra)
+                                Estacionamiento techado y cerrado para huéspedes. Servicio de taxi con costo extra.
                             </p>
 
                         </div>
@@ -230,7 +230,7 @@
 
                     <div class="h-52 lg:h-full min-h-5 basis-1/3 relative mb-8 md:mb-20 lg:mb-8">
                         <picture>
-                            <img class="w-full object-cover md:h-72 h-60" src="{{ asset('assets/img/installations/laundry.jpg') }}" alt="Lavanderia Photography">
+                            <img class="w-full object-cover md:h-72 h-60" src="{{ asset('assets/img/installations/tintoreria.jpeg') }}" alt="Lavanderia Photography">
                         </picture>
 
                         <div class="w-20 h-20 rounded-full bg-main p-4 absolute left-1/2 -translate-x-1/2 -bottom-16 md:-bottom-28 lg:-bottom-10">

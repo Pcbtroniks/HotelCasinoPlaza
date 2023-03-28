@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\Front\ContactController;
 use App\Http\Controllers\Front\FrontController;
 use Illuminate\Support\Facades\Route;
 
@@ -15,4 +16,4 @@ Route::get('services', [FrontController::class, 'services'])->name('services');
 
 Route::get('contact', [FrontController::class, 'contact'])->name('contact');
 
-Route::post('contact', [FrontController::class, 'contact'])->name('contact.send');
+Route::post('contact', [ContactController::class, 'sendContactEmail'])->name('contact.send');
