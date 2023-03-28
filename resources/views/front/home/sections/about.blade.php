@@ -17,7 +17,7 @@
         </div>
         <!-- -->
         <div class="lg:w-1/2 overflow-hidden card-shadow">
-            <img class="w-full bg-cover object-cover scale-150 h-full" src="{{ asset('assets/img/about.jpg') }}" alt="About us Image">
+            <img class="w-full bg-cover object-cover scale-150 h-full" src="{{ asset('assets/img/installations/fachada-hotel.jpg') }}" alt="About us Image">
         </div>
     </div>
 
