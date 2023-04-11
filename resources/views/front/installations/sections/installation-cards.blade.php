@@ -73,7 +73,7 @@
                             <p class="text-sm">
                                 Lunes a Domingo 07:00 a 22:00 hrs
                                 <br>
-                                Disfruta de el sabor de nuestros auténticos chilaquiles tapatíos, desde 1959 estamos presentes en Guadalajara para que tu estancia con nosotros sea placentera.
+                                Nuestro Restaurante “Los Alcatraces”, cuenta con una amplia variedad de platillos típicos mexicanos y postres para los paladares más exigentes. También podrán disfrutar de diferentes bebidas con y sin alcohol, provenientes de la cava de la casa, donde encontraran el acompañamiento perfecto a sus platillos.
                             </p>
 
 
@@ -115,7 +115,7 @@
                         <div>
 
                             <p class="text-sm">
-                                Estamos seguros de poder alcanzar sus más altas expectativas, considerando que día a día mejoramos la calidad de nuestros servicios e instalaciones.
+                                Nuestros salones de eventos cuentan con diferentes amenidades para cumplir con las expectativas del evento que esté pensando realizar. Tenemos capacidad de hasta 180 personas en nuestro salón más amplio.
                             </p>
 
 
@@ -157,7 +157,7 @@
                         <div>
 
                             <p class="text-sm">
-                                Estamos seguros de poder alcanzar sus más altas expectativas, considerando que día a día mejoramos la calidad de nuestros servicios e instalaciones.
+                                Si es viaje de negocios o de placer, tenemos un gimnasio equipado con todo lo necesario para mantenerse en forma durante su estancia.
                             </p>
 
 
