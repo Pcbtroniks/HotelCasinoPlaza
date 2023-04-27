@@ -1,6 +1,6 @@
 <footer>
 
-    <div class="bg-main relative py-20 px-4 flex md:flex-row md:px-6 sm:justify-center flex-col items-center gap-24">
+    <div class="bg-main relative py-16 px-4 flex md:flex-row md:px-6 sm:justify-center flex-col items-center gap-24">
 
         <div>
             <img src="{{ asset('assets/logo.png') }}" alt="Logo Country Hotel">
@@ -17,14 +17,15 @@
         <div class="sm:w-[335px] px-3 text-white">
             <h4>Información de contacto</h4>
 
-            <div class="space-y"></div>
+            <div class="h-8"></div>
 
-            <div class="flex flex-col gap-16 text-left font-bold">
+            <div class="flex flex-col gap-10 text-left font-bold">
                 <a class="flex gap-2" href="tel:+523336140223">
-                    <img src="{{ asset('assets/icons/call-outline.svg') }}" alt="Location Icon">
-                    <span>+52 (33) 3614 0223 </span>
-                    <br>
-                    <span>3614 0224</span>
+                    <img src="{{ asset('assets/icons/call-outline.svg') }}" alt="Phone Icon">
+                    <div class="flex flex-col justify-center">
+                        <span>+52 (33) 3614 0223 </span>
+                        <span>&nbsp; 3614 0224</span>
+                    </div>
                 </a>
                 <a class="flex gap-2" href="mailto:reservaciones@hotelcasinoplaza.mx">
                     <img src="{{ asset('assets/icons/services/mail-outline.svg') }}" alt="Location Icon">
@@ -42,7 +43,7 @@
 
     </div>
 
-    <div class="bg-acent p-4">
+    <div class="bg-acent p-2">
 
         <ul class="text-gray font-bold flex flex-wrap gap-2 justify-center">
             <li><a href="{{route('home')}}">Inicio</a></li>
@@ -54,7 +55,7 @@
 
     </div>
 
-    <div class="bg-acent p-4 text-center">
+    <div class="bg-acent p-3 text-center">
         <p class="text-white/50 text-sm">
             &copy; 
             <script>document.write(new Date().getFullYear())</script>
