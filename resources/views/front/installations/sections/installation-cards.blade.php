@@ -115,7 +115,7 @@
                         <div>
 
                             <p class="text-sm">
-                                Nuestros salones de eventos cuentan con diferentes amenidades para cumplir con las expectativas del evento que esté pensando realizar. Tenemos capacidad de hasta 180 personas en nuestro salón más amplio.
+                                Nuestros salones de eventos cuentan con diferentes amenidades para cumplir con las expectativas del evento que esté pensando realizar. Tenemos capacidad de hasta 180 personas en nuestro salón más amplio. <a href="{{ route('event.contact') }}" class=" text-main underline">Cotiza tu evento</a>
                             </p>
 
 
