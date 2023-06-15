@@ -11,7 +11,8 @@
                 <span class="border-b-4 border-main block w-80 my-2"></span>
             </div>
             
-            <div class="md:columns-xs lg:columns-sm xl:columns-xl">
+            <!-- <div class="md:columns-xs/*[20rem 320px]*/ lg:columns-sm/*[24rem 384px]*/ xl:columns-xl/*[36rem 576px]*/"> -->
+            <div class="grid md:grid-cols-2 md:gap-4 justify-between">
                 <!--Room Card-->
                 <div class="shadow-card card-shadow max-w-[38rem] mx-auto w-full mb-8">
                     
