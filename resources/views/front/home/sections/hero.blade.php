@@ -18,6 +18,11 @@
                 <p class="text-lg px-10">
                     Estamos seguros de poder alcanzar sus más altas expectativas, considerando que día a día mejoramos la calidad en nuestros servicios e instalaciones.
                 </p>
+                <a target="_blanck" href="https://rengin.pcbtroniks.com/direct-booking/">
+                    <button class="cta-main-button w-80 bg-main">
+                        <span>Reservar Ahora</span>
+                    </button>
+                </a>
             </div>
 
         </div>    
@@ -38,6 +43,11 @@
                 <p class="text-lg px-10">
                     Estamos seguros de poder alcanzar sus más altas expectativas, considerando que día a día mejoramos la calidad en nuestros servicios e instalaciones.
                 </p>
+                <a target="_blanck" href="https://rengin.pcbtroniks.com/direct-booking/">
+                    <button class="cta-main-button w-80 bg-main">
+                        <span>Reservar Ahora</span>
+                    </button>
+                </a>
             </div>
 
         </div>    
@@ -58,6 +68,11 @@
                 <p class="text-lg px-10">
                     Estamos seguros de poder alcanzar sus más altas expectativas, considerando que día a día mejoramos la calidad en nuestros servicios e instalaciones.
                 </p>
+                <a target="_blanck" href="https://rengin.pcbtroniks.com/direct-booking/">
+                    <button class="cta-main-button w-80 bg-main">
+                        <span>Reservar Ahora</span>
+                    </button>
+                </a>
             </div>
 
         </div>    
@@ -78,6 +93,11 @@
                 <p class="text-lg px-10">
                     Estamos seguros de poder alcanzar sus más altas expectativas, considerando que día a día mejoramos la calidad en nuestros servicios e instalaciones.
                 </p>
+                <a target="_blanck" href="https://rengin.pcbtroniks.com/direct-booking/">
+                    <button class="cta-main-button w-80 bg-main">
+                        <span>Reservar Ahora</span>
+                    </button>
+                </a>
             </div>
 
         </div>    
