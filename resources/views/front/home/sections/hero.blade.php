@@ -19,7 +19,7 @@
                     Estamos seguros de poder alcanzar sus más altas expectativas, considerando que día a día mejoramos la calidad en nuestros servicios e instalaciones.
                 </p>
                 <a target="_blanck" href="https://rengin.pcbtroniks.com/direct-booking/">
-                    <button class="cta-main-button w-80 bg-main">
+                    <button class="cta-main-button w-80 bg-main md:mx-auto mt-3">
                         <span>Reservar Ahora</span>
                     </button>
                 </a>
@@ -44,7 +44,7 @@
                     Estamos seguros de poder alcanzar sus más altas expectativas, considerando que día a día mejoramos la calidad en nuestros servicios e instalaciones.
                 </p>
                 <a target="_blanck" href="https://rengin.pcbtroniks.com/direct-booking/">
-                    <button class="cta-main-button w-80 bg-main">
+                    <button class="cta-main-button w-80 bg-main md:mx-auto mt-3">
                         <span>Reservar Ahora</span>
                     </button>
                 </a>
@@ -69,7 +69,7 @@
                     Estamos seguros de poder alcanzar sus más altas expectativas, considerando que día a día mejoramos la calidad en nuestros servicios e instalaciones.
                 </p>
                 <a target="_blanck" href="https://rengin.pcbtroniks.com/direct-booking/">
-                    <button class="cta-main-button w-80 bg-main">
+                    <button class="cta-main-button w-80 bg-main md:mx-auto mt-3">
                         <span>Reservar Ahora</span>
                     </button>
                 </a>
@@ -94,7 +94,7 @@
                     Estamos seguros de poder alcanzar sus más altas expectativas, considerando que día a día mejoramos la calidad en nuestros servicios e instalaciones.
                 </p>
                 <a target="_blanck" href="https://rengin.pcbtroniks.com/direct-booking/">
-                    <button class="cta-main-button w-80 bg-main">
+                    <button class="cta-main-button w-80 bg-main md:mx-auto mt-3">
                         <span>Reservar Ahora</span>
                     </button>
                 </a>
