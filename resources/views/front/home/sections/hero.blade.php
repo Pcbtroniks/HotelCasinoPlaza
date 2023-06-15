@@ -18,7 +18,7 @@
                 <p class="text-lg px-10">
                     Estamos seguros de poder alcanzar sus más altas expectativas, considerando que día a día mejoramos la calidad en nuestros servicios e instalaciones.
                 </p>
-                <a target="_blanck" href="https://rengin.pcbtroniks.com/direct-booking/">
+                <a target="_blanck" href="{{ route('rengin.direct-booking') }}">
                     <button class="cta-main-button w-80 bg-main md:mx-auto mt-3">
                         <span>Reservar Ahora</span>
                     </button>
@@ -43,7 +43,7 @@
                 <p class="text-lg px-10">
                     Estamos seguros de poder alcanzar sus más altas expectativas, considerando que día a día mejoramos la calidad en nuestros servicios e instalaciones.
                 </p>
-                <a target="_blanck" href="https://rengin.pcbtroniks.com/direct-booking/">
+                <a target="_blanck" href="{{ route('rengin.direct-booking') }}">
                     <button class="cta-main-button w-80 bg-main md:mx-auto mt-3">
                         <span>Reservar Ahora</span>
                     </button>
@@ -68,7 +68,7 @@
                 <p class="text-lg px-10">
                     Estamos seguros de poder alcanzar sus más altas expectativas, considerando que día a día mejoramos la calidad en nuestros servicios e instalaciones.
                 </p>
-                <a target="_blanck" href="https://rengin.pcbtroniks.com/direct-booking/">
+                <a target="_blanck" href="{{ route('rengin.direct-booking') }}">
                     <button class="cta-main-button w-80 bg-main md:mx-auto mt-3">
                         <span>Reservar Ahora</span>
                     </button>
@@ -93,7 +93,7 @@
                 <p class="text-lg px-10">
                     Estamos seguros de poder alcanzar sus más altas expectativas, considerando que día a día mejoramos la calidad en nuestros servicios e instalaciones.
                 </p>
-                <a target="_blanck" href="https://rengin.pcbtroniks.com/direct-booking/">
+                <a target="_blanck" href="{{ route('rengin.direct-booking') }}">
                     <button class="cta-main-button w-80 bg-main md:mx-auto mt-3">
                         <span>Reservar Ahora</span>
                     </button>

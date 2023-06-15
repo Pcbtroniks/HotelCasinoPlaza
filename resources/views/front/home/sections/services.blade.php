@@ -9,7 +9,7 @@
             </p>
         </div>
 
-        <div class="flex justify-center items-center gap-8 my-16 flex-col sm:flex-row flex-wrap md:sm:flex-nowrap">
+        <div class="flex justify-center items-center gap-8 my-16 flex-col sm:flex-row flex-wrap">
         
             <div class="flex items-center">
                 <div class="w-[90px]">

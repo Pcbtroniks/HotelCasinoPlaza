@@ -15,7 +15,7 @@
                 Somos su hotel de cuatro estrellas en el corazón de Guadalajara, constantemente en busca de mejoras para que tenga una estancia cálida, contamos con las amenidades necesarias para que tenga una casa fuera de casa. 
             </p>
             <div class="h-3 xl:h-8"></div>
-            <a target="_blanck" href="https://rengin.pcbtroniks.com/direct-booking/">
+            <a target="_blanck" href="{{ route('rengin.direct-booking') }}">
                 <button class="cta-main-button w-full sm:w-80 bg-main">
                     <span>Reservar Ahora</span>
                 </button>
