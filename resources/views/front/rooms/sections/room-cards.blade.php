@@ -45,7 +45,7 @@
 
                         <div class="mt-8 xl:mt-4 justify-self-end">
 
-                            <a href="{{route('contact')}}">
+                            <a target="_blank" href="{{route('rengin.direct-booking')}}">
                                 <button class="w-36 h-12 font-bold bg-main text-white text-sm">Reservar ahora</button>
                             </a>
 
@@ -93,7 +93,7 @@
 
                         <div class="mt-4 justify-self-end">
 
-                            <a href="{{route('contact')}}">
+                            <a target="_blank" href="{{route('rengin.direct-booking')}}">
                                 <button class="w-36 h-12 font-bold bg-main text-white text-sm">Reservar ahora</button>
                             </a>
 
@@ -141,7 +141,7 @@
 
                         <div class="mt-4 justify-self-end">
 
-                            <a href="{{route('contact')}}">
+                            <a target="_blank" href="{{route('rengin.direct-booking')}}">
                                 <button class="w-36 h-12 font-bold bg-main text-white text-sm">Reservar ahora</button>
                             </a>
 
