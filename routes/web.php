@@ -23,5 +23,5 @@ Route::get('event-contact', [FrontController::class, 'eventContact'])->name('eve
 Route::post('event-contact', [ContactController::class, 'sendEventContactEmail'])->name('event.contact.send');
 
 Route::get('rengin-direct-booking', function(){
-    return redirect('https://rengin.pcbtroniks.com/');
+    return redirect('https://rengin.pcbtroniks.com/direct-booking/');
 })->name('rengin.direct-booking');
