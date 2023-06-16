@@ -8,7 +8,7 @@
                 <h2 class="text-3xl font-bold">
                     Nuestras habitaciones
                 </h2>
-                <span class="border-b-4 border-main block w-80 my-2"></span>
+                <span class="border-b-4 border-main block sm:w-80 w-full my-2"></span>
             </div>
             
             <!-- <div class="md:columns-xs/*[20rem 320px]*/ lg:columns-sm/*[24rem 384px]*/ xl:columns-xl/*[36rem 576px]*/"> -->
