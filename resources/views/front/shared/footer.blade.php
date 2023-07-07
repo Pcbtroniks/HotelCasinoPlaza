@@ -10,7 +10,7 @@
             <ul class="grid grid-cols-2 gap-7">
                 <li><a target="_blank" href="https://api.whatsapp.com/send?phone=523313659752&text=Hola%20me%20gustaria%20comunicarme%20con%20alguien%20del%20hotel."><img src="{{ asset('assets/icons/socials/WhatsApp Inc.svg') }}" alt="WhatsApp"></a></li>
                 <li><a target="_blank" href="https://www.facebook.com/CasinoPlazaHotel"><img src="{{ asset('assets/icons/socials/Facebook.svg') }}" alt="Facebook"></a></li>
-                <li class="col-span-2 mx-auto"><a href="javascript:void(0)"><img src="{{ asset('assets/icons/socials/Instagram.svg') }}" alt="Instagram"></a></li>
+                <li class="col-span-2 mx-auto"><a href="https://www.instagram.com/_hotelcasinoplaza_/"><img src="{{ asset('assets/icons/socials/Instagram.svg') }}" alt="Instagram"></a></li>
             </ul>
         </div>
 
