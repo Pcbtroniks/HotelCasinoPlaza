@@ -75,7 +75,7 @@
                                 <br>
                                 Nuestro Restaurante “Los Alcatraces”, cuenta con una amplia variedad de platillos típicos mexicanos y postres para los paladares más exigentes. También podrán disfrutar de diferentes bebidas con y sin alcohol, provenientes de la cava de la casa, donde encontraran el acompañamiento perfecto a sus platillos. 
                                 Conozca nuestro <a class="text-[#839226]" href="{{ asset('restaurante/menu-los-alcatraces.pdf') }}" target="_blank">menú de comida</a> y 
-                                <a class="text-[#839226]" href="{{ asset('restaurante/menu-los-alcatraces-bedidas.pdf') }}" target="_blank">nuestras bebidas</a>
+                                <a class="text-[#839226]" href="{{ asset('restaurante/menu-los-alcatraces-bebidas.pdf') }}" target="_blank">nuestras bebidas</a>
                             </p>
 
 
