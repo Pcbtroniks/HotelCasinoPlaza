@@ -74,7 +74,7 @@
                                 Lunes a Domingo 07:00 a 22:00 hrs
                                 <br>
                                 Nuestro Restaurante “Los Alcatraces”, cuenta con una amplia variedad de platillos típicos mexicanos y postres para los paladares más exigentes. También podrán disfrutar de diferentes bebidas con y sin alcohol, provenientes de la cava de la casa, donde encontraran el acompañamiento perfecto a sus platillos. 
-                                Consulte nuestro <a class="text-[#839226]" href="{{ asset('restaurante/menu-los-alcatraces.pdf') }}" target="_blank">menú de comida</a> y 
+                                Conozca nuestro <a class="text-[#839226]" href="{{ asset('restaurante/menu-los-alcatraces.pdf') }}" target="_blank">menú de comida</a> y 
                                 <a class="text-[#839226]" href="{{ asset('restaurante/menu-los-alcatraces-bedidas.pdf') }}" target="_blank">nuestras bebidas</a>
                             </p>
 

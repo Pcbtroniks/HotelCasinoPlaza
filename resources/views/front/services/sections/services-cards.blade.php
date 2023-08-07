@@ -62,6 +62,13 @@
                         <h2 class="text-2xl font-bold my-4 sm:my-2 capitalize">Restaurante Los Alcatraces </h2>
 
                         <div>
+                            <p class="text-sm font-bold text-dark-medium leading-6">
+                                Conozca nuestro <a class="text-[#839226]" href="{{ asset('restaurante/menu-los-alcatraces.pdf') }}" target="_blank">menú de comida</a> y 
+                                <a class="text-[#839226]" href="{{ asset('restaurante/menu-los-alcatraces-bedidas.pdf') }}" target="_blank">nuestras bebidas</a>
+                            </p>
+                        </div>
+
+                        <div>
 
                             <p class="text-sm font-bold text-dark-medium leading-6">
                                 (Con horario de 7:00am a 9:30pm)
