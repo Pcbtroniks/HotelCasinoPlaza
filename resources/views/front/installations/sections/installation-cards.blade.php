@@ -73,22 +73,20 @@
                             <p class="text-sm">
                                 Lunes a Domingo 07:00 a 22:00 hrs
                                 <br>
-                                Nuestro Restaurante “Los Alcatraces”, cuenta con una amplia variedad de platillos típicos mexicanos y postres para los paladares más exigentes. También podrán disfrutar de diferentes bebidas con y sin alcohol, provenientes de la cava de la casa, donde encontraran el acompañamiento perfecto a sus platillos.
+                                Nuestro Restaurante “Los Alcatraces”, cuenta con una amplia variedad de platillos típicos mexicanos y postres para los paladares más exigentes. También podrán disfrutar de diferentes bebidas con y sin alcohol, provenientes de la cava de la casa, donde encontraran el acompañamiento perfecto a sus platillos. 
+                                Consulte nuestro <a class="text-[#839226]" href="{{ asset('restaurante/menu-los-alcatraces.pdf') }}" target="_blank">menú de comida</a> y 
+                                <a class="text-[#839226]" href="{{ asset('restaurante/menu-los-alcatraces-bedidas.pdf') }}" target="_blank">nuestras bebidas</a>
                             </p>
 
 
                             <div class="mt-8">
                                 <ul class="flex gap-4 md:justify-start justify-around px-2 nth-rm">
-                                    <li><img src="{{ asset('assets/icons/wifi.png') }}" alt="Wify Logo"></li>
+                                    <li><img src="{{ asset('assets/icons/wifi.png') }}" alt="Wifi Logo"></li>
                                     <li><img src="{{ asset('assets/icons/park.png') }}" alt="Park Logo"></li>
                                 </ul>
                             </div>
 
                         </div>
-                        
-                        <a class="hidden" target="_blank" href="https://direct-book.com/properties/HotelarboreaDirect">
-                            <button class="w-36 h-12 font-bold bg-ronda-orange text-white text-sm">Reservar Ahora</button>
-                        </a>
 
                     </div>
 
