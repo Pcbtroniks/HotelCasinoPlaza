@@ -41,4 +41,14 @@ class FrontController extends Controller
     {
         return view('front.event-contact.contact');
     }
+
+    public function restaurantMenu()
+    {
+        return view('front.restaurant-menu.menu');
+    }
+
+    public function restaurantMenuRoomService()
+    {
+        return view('front.restaurant-menu.menu/room-service');
+    }
 }
