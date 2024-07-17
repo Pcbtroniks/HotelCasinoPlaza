@@ -11,7 +11,7 @@
             <div class="swiper-wrapper">
             
                 <div class="swiper-slide card-shadow p-8">
-                    <h4 class="font-bold">Buen hotel a pecios justos</h4>
+                    <h4 class="font-bold">Excelente lugar para alojarse cuando visiten guadalajara</h4>
                     <ul class="flex my-3">
                         <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
                         <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
@@ -21,12 +21,12 @@
                     </ul>
 
                     <p class="text-sm">
-                        Muy amplios cuartos y cómodos, con buena instalación y personal atento, la seguridad muy bien.
+                        La ubicación, cerca de todo además de limpio y sin contar la comida que les diré parece comida de casa deliciosa
                     </p>
                 </div>
 
                 <div class="swiper-slide card-shadow p-8">
-                    <h4 class="font-bold">Sin duda volveria.</h4>
+                    <h4 class="font-bold">Fantástico</h4>
                     <ul class="flex my-3">
                         <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
                         <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
@@ -36,12 +36,12 @@
                     </ul>
 
                     <p class="text-sm">
-                        Las habitaciones dobles me parecieron modernas muy comodas y muy traquilo, el servicio de restaurante me parecio excelente, la comida muy buena, las areas compartidas.
+                        El hotel súper limpio y el desayuno muy rico, excelente ubicación
                     </p>
                 </div>
 
                 <div class="swiper-slide card-shadow p-8">
-                    <h4 class="font-bold">All around good-value place to stay.</h4>
+                    <h4 class="font-bold">Excepcional</h4>
                     <ul class="flex my-3">
                         <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
                         <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
@@ -51,12 +51,12 @@
                     </ul>
 
                     <p class="text-sm">
-                        The hotel was perfectly comfortable in a good location close to things of tourist interest, and the staff were nice and helpful. The included breakfast was good, but the coffee could have been better… then again, we weren’t expecting a café-style cappuccino;). The waitress who served us was very nice, quick, & efficient.
+                        Todo esta perfecto. Los empleados son super amables,la comida del restaurant es rica y economica, el personal encargado de la limpieza muy bien presentable, amable y profecional,el conserje por las noches siempre disponible para conseguir cualquier cosa como comida o bebidas a altas horas de la madrugada
                     </p>
                 </div>
 
                 <div class="swiper-slide card-shadow p-8">
-                    <h4 class="font-bold">Superb.</h4>
+                    <h4 class="font-bold">excelente</h4>
                     <ul class="flex my-3">
                         <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
                         <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
@@ -66,7 +66,52 @@
                     </ul>
 
                     <p class="text-sm">
-                        Fantastic hotel in great location. Personel very helpfull.
+                        La habitación esta muy limpia todos los días el servicio excelente
+                    </p>
+                </div>
+
+                <div class="swiper-slide card-shadow p-8">
+                    <h4 class="font-bold">Excepcional</h4>
+                    <ul class="flex my-3">
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
+                    </ul>
+
+                    <p class="text-sm">
+                        Las habitaciones son muy amplias y limpias. El servicio muy amable.
+                    </p>
+                </div>
+
+                <div class="swiper-slide card-shadow p-8">
+                    <h4 class="font-bold">Fantástico</h4>
+                    <ul class="flex my-3">
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
+                    </ul>
+
+                    <p class="text-sm">
+                        Que está en buena ubicación y los cuartos están muy bien todo bien
+                    </p>
+                </div>
+
+                <div class="swiper-slide card-shadow p-8">
+                    <h4 class="font-bold">Excelente hotel. No duden en hospedarse aquí</h4>
+                    <ul class="flex my-3">
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
+                    </ul>
+
+                    <p class="text-sm">
+                        Todo me gustó! La habitación. Las camas. El Buffett. La atención del personal.
                     </p>
                 </div>
             </div>
