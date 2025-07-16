@@ -7,7 +7,7 @@
             </div>
         </a>
             
-        <div>
+        <div class="text-stone-700 text-center mt-4">
             <h1 class="font-bold text-3xl text-center mb-4">Hotel Casino Plaza - Menu Restaurante Los Alcatraces</h1>
             <h2 class="font-bold text-center">Bienvenido / Welcome</h2>
         </div>
